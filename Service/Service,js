@@ -1,0 +1,9 @@
+import React, { component} fron 'react'
+
+export default class service extends component {
+    render () {
+        return {
+            <div>service</div>
+        }
+    }
+}
